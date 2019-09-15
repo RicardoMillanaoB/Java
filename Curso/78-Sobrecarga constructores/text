@@ -1,0 +1,4 @@
+-Palabra super: contrusctor de la clase padre
+-toString() : imprime valores de la clase
+-super: llama un metodo de la clase padre
+-this(): llama los contructores sobrecargados dentro de la misma clase

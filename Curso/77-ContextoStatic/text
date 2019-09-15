@@ -1,0 +1,4 @@
+Contexto Statico y Dinamico
+La clase se debe cargar en memoria, luego de estar cargada se pueden crear objetos y ahi es donde comienza el Contexto Dinamico
+
+Palabra Static interactua con su cotexto Estatico por lo que la palabra this no puede utilizarce en el metodo estatico
