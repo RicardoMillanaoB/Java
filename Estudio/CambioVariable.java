@@ -11,6 +11,9 @@ public class CambiarTipo {
         
         char variable3 = "Hola".charAt(1);// char no se puede convertir ya que utiliza caracteres
         System.out.println("caracter" + variable3);
+       
+        int entero = 1;
+        String enteroString = Integer.toString(entero); //convierte de int a string
         
         String variable4 = intro.next();
         int variable5 = Integer.parseInt(intro.next());// asignacion de String a una variable int nueva
