@@ -1,0 +1,1 @@
+Son distintos tipos de arreglos los cuales tienen propiedades diferentes y se pueden utilizar para distintos tipos de valores
